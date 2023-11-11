@@ -3,8 +3,7 @@
 
 
 Task 1  https://github.com/vip-99/TASK-INTERN-CAREER./blob/main/Terrorism%20Dashboard.pdf (Terrorism Analysis Dashboard)
-Dataset :- Terrorism Database
-Tools Used :- Excel,Power BI
+
 
 Description :-
 The Terrorism Database contains information about terrorist attacks worldwide. It includes details such as the date,location, attack type, weapons used, number of casualties,and responsible groups.Objective is to create a Power BI dashboard that provides a comprehensive overview of global terrorism trends and patterns.
@@ -32,13 +31,19 @@ Key Insight :-
 
 
 
+
+
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-  TAsk 2   https://github.com/vip-99/TASK-INTERN-CAREER./blob/main/covid%20task%20new.pdf
-🗒Topic:- COVID-19 Analysis
-🗒Tool Used:-Excel,Power BI
+
+
+  
+  
+  TASK 2   https://github.com/vip-99/TASK-INTERN-CAREER./blob/main/covid%20task%20new.pdf (COVID-19 Analysis)
+
 
 Description:-
 The COVID-19 Daily Cases dataset provides information on the daily reported COVID-19 cases, including the number of confirmed cases, deaths, recoveries, and testing data. Your task is to create a Power BI dashboard that offers
