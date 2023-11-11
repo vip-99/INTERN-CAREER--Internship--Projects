@@ -2,8 +2,7 @@
 
 
 
-Task 1  https://github.com/vip-99/TASK-INTERN-CAREER./blob/main/Terrorism%20Dashboard.pdf
-Topic :- Terrorism Analysis Dashboard
+Task 1  https://github.com/vip-99/TASK-INTERN-CAREER./blob/main/Terrorism%20Dashboard.pdf (Terrorism Analysis Dashboard)
 Dataset :- Terrorism Database
 Tools Used :- Excel,Power BI
 
