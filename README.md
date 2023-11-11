@@ -1,6 +1,43 @@
-# TASK-INTERN-CAREER (COVID-19 TASK 2).
+# TASK-INTERN-CAREER
 
-https://github.com/vip-99/TASK-INTERN-CAREER./blob/main/covid%20task%20new.pdf
+
+
+Task 1  https://github.com/vip-99/TASK-INTERN-CAREER./blob/main/Terrorism%20Dashboard.pdf
+Topic :- Terrorism Analysis Dashboard
+Dataset :- Terrorism Database
+Tools Used :- Excel,Power BI
+
+Description :-
+The Terrorism Database contains information about terrorist attacks worldwide. It includes details such as the date,location, attack type, weapons used, number of casualties,and responsible groups.Objective is to create a Power BI dashboard that provides a comprehensive overview of global terrorism trends and patterns.
+
+
+Things I Done It :-
+
+1 Imported the Excel Terrorism Database into Power BI.
+2 Removed Unwanted Columns
+3 Cleaned the data to handle missing values and outliers.
+4 Created a date column (based on Merge columns)
+5 At Last built a dashboard  with slicers,Filter 
+
+
+Key Insight :-
+🔹Most dangerous  group is the Shining Path (SL), with a success rate of 30%.
+🔹Most common type of attack is a bombing/explosion, with a success rate of 55.7%.
+🔹Maximum Attack was happened in year 2017.
+🔹Most commonly used weapon is Explosives, with a success rate of 56.8%.
+🔹Most Target country is Italy
+🔹Middle East & North Africa,South Asia,South America are the three regions with higest Success Rate 
+🔹Private Citizens & Property is the most common Target Type. It has 30.4% Success rate.
+🔹Australasia & Oceania and South Asia regions Record highest Suicide Rate
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+  TAsk 2   https://github.com/vip-99/TASK-INTERN-CAREER./blob/main/covid%20task%20new.pdf
 🗒Topic:- COVID-19 Analysis
 🗒Tool Used:-Excel,Power BI
 
